@@ -34,7 +34,7 @@ Burger Star is an application for creating burgers where users can select ingred
 
 * Cypress (end-to-end testing)
 
-##📦 Installation and Running
+## 📦 Installation and Running
 
 Install dependencies:
 ```
