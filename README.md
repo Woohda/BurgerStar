@@ -1,6 +1,6 @@
-# Burger Star
+# Cosmo Burgers
 
-Burger Star is an application for creating burgers where users can select ingredients and order ready-made burgers. The application is developed using React and Redux.
+Cosmo Burger is an application for creating burgers where users can select ingredients and order ready-made burgers. The application is developed using React and Redux.
 
 <img width="1381" alt="Снимок экрана 2025-02-01 в 19 48 56" src="https://github.com/user-attachments/assets/07eb5727-c3de-473a-bb65-c835a1fb11ba" />
 
